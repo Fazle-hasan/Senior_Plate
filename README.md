@@ -1,20 +1,25 @@
 # senior_plate
 Application Description 
 Introduction: Senior Plate is a mobile phone application that uses a machine learning algorithm called RandomForestClassifier to give the user a diet plan based on personal information like height, weight, age, gender and level of physical activities. In Today's busy life, everyone can just imagine having a well-balanced diet. A balanced diet is crucial because your organs and tissues require the right nutrients to function properly. Your body is more prone to illness, infection, weariness, and subpar performance if you don't consume healthy food. At the centre of a balanced diet are foods that are low in unnecessary fats and sugars and high in vitamins, minerals, and other nutrients. We suggest developing a meal-planning programme that can provide tailored diet plans depending on users' requirements.
-Process:
+## Process:
 1.	First, you want to register on our application, the registration screen for the application provides a secure and easy-to-use platform for users to access their personalized diet plans. To register, the user must enter their Name, Email address and password.
 ![image](https://user-images.githubusercontent.com/70137126/236690503-baaf44f3-186c-4309-94e5-b7e514daa203.png)
+
 2.	After registration go to the login window and log in with your credentials such as email id and password.
 ![image](https://user-images.githubusercontent.com/70137126/236690520-0a5fbc58-0eb2-421d-8e92-4c77196d56d4.png)
+
 3.	After login, you go to the user detail screen page. The user detail screen in the application page is designed to gather important information from the user, to generate a personalized and effective diet plan. The page includes a set of fields that the user must fill out, such as their age, height, weight, and gender. Currently, it is not integrated with the application. I created the following type of screen in Jupyter Notebook.
+
 ![image](https://user-images.githubusercontent.com/70137126/236690541-7f62df46-c6f1-49f7-9387-903694077197.png)
+
 4.	After submitting the information. The application recommends you a diet plan.
+
 ![Output1](https://user-images.githubusercontent.com/70137126/236690891-58ff476b-3be6-43fb-bd58-bec66017c9ff.jpg)
 ![Output2](https://user-images.githubusercontent.com/70137126/236690900-b47f531a-1190-4b13-bbbe-43df9c9f7fd0.jpg)
 ![output3](https://user-images.githubusercontent.com/70137126/236690905-c0d2972b-55ba-4e37-840d-9a361423db88.jpg)
 
 
-###why should you preffer this?
+### why should you preffer this?
 
 User-friendly interface: The app should be easy to use and navigate, with clear instructions and guidance for the elderly users.
 
@@ -28,7 +33,7 @@ Recipe suggestions: The app should provide recipe suggestions that are easy to p
 
 Reminder notifications: The app should have a reminder feature that alerts the user to eat at the right time and drink enough fluids throughout the day.
 
-###QnA about the app
+### QnA about the app
 
 
 1)How many elderly people are facing problem of Malnutrition in India?
